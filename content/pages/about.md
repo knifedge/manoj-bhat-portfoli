@@ -4,10 +4,8 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I’m a Software Developer working in UAE, born in a small district called Udupi in Karnataka and bought up in a town called Harihar, Karnataka, India.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I'm passionate about bringing both the technical and visual aspects of digital products to life. User experience, beautiful pixels and writing clean accessible, human code matters to me. I sweat the details. John Maeda’s Laws Of Simplicity, I agree that less is more.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Ever annoyed at being boxed in, i’ve spent my short career pursuing cross-discipline endeavours and filling unconventional roles as an Engineer. In the 2012s, I began experimenting with the web as a creative medium, utilising established web technologies in new ways. In 2016 I began my professional journey. Currently, React, React-Native, Typescript and GraphQL are the Technologies that I am working with ❤️. Meanwhile, My best time is spent with my family 👨‍👩‍👦‍👦 & exploring Nature, Art, Learning anything that matters to me.
