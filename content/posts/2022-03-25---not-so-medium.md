@@ -3,10 +3,10 @@ title: "Why not Medium"
 date: "2022-03-25T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "the-birth-of-movable-type"
+slug: "not-so-medium"
 category: "Typography"
 tags:
-  - "Open source"
+  - "Intro"
 description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
 socialImage: "/media/gutenberg.jpg"
 ---
