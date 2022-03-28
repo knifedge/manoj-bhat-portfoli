@@ -26,7 +26,7 @@ module.exports = {
 		bio: "Product Engineer @ DIY.org",
 		contacts: {
 			email: "imanojbhat@gmail.com",
-			facebook: "#",
+			facebook: "",
 			telegram: "mbhat94",
 			twitter: "ManojBhat38",
 			github: "knifedge",
