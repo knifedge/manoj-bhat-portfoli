@@ -1,14 +1,14 @@
 ---
-title: Why not Medium
-date: "2022-03-19T22:40:32.169Z"
+title: "Why not Medium"
+date: "2022-03-25T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "Blog in 22"
-category: "Introduction"
+slug: "the-birth-of-movable-type"
+category: "Typography"
 tags:
-  - "Design""
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+  - "Open source"
+description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+socialImage: "/media/gutenberg.jpg"
 ---
 
 To write blog was a long running lazy dream. In the midst of building multiple product from scratch, i think it's now time to build a portfolio of my own.
