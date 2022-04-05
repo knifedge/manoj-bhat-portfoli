@@ -7,7 +7,7 @@ slug: "me-and-my-journey"
 category: "Introduction"
 tags:
   - "Intro"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+description: ""
 socialImage: "/media/42-line-bible.jpg"
 ---
 
