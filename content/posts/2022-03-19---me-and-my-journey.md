@@ -7,7 +7,7 @@ slug: "me-and-my-journey"
 category: "Introduction"
 tags:
   - "Intro"
-description: ""
+description: "A graceful journey from THEN to NOW"
 socialImage: "/media/42-line-bible.jpg"
 ---
 

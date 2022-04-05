@@ -4,10 +4,10 @@ date: "2022-03-25T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "not-so-medium"
-category: "Typography"
+category: "Reflection"
 tags:
   - "Intro"
-description: ""
+description: "I learn when i build."
 socialImage: "/media/gutenberg.jpg"
 ---
 
